@@ -1,7 +1,28 @@
 
 
+OBSERVACION: Los archivos deben tener su extension por preferencia
 
-BLOG DE NOTA CON EXTENSION.TXT
+ ################  Comandos mas usados ################
 
+git init = monitorear los archivos
 
-comentario
+git add -A = agrega todos los archivos con su extension
+
+git add escribir el archivo + extension
+
+git branch = verificar las ramas
+
+git branch nombre de la rama = se crea la rama
+
+git checkout = verificamos la rama donde estamos ubicados
+
+git checkout nombre del branch(rama) = nos envia a la rama
+
+git checkout -b nombre nueno de rama = nos crea la rama y nos mete dentro de esa rama
+
+git merge (ponemos el nombre de la rama que queremos copiar)
+
+git commit(mensaje) -m "PONER EL MENSAJE"
+
+git push origin (URL DEL REPOSITORIO GitHub) = subimos a la nube los archivos
+
